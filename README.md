@@ -28,3 +28,6 @@ O script realiza as seguintes operações:
 2. Execute o script Python.
 3. Digite o nome do jogo quando solicitado.
 4. O script irá gerar um arquivo HTML chamado `detalhes_jogo.html` com as informações do jogo.
+
+
+![foto resultado](https://github.com/user-attachments/assets/c12dfc18-7246-41a8-90ce-d34a8cfd1e75)
